@@ -4,6 +4,98 @@ Aplikasi modern berbasis web yang dirancang untuk memudahkan pihak sekolah dalam
 
 ---
 
+✨ Fitur
+🔐 Autentikasi Multi-Peran
+Login terpisah untuk siswa, guru, orang tua, dan admin sesuai dengan hak akses.
+📢 Pengumuman Sekolah
+Admin dapat membuat dan menyebarkan pengumuman penting ke seluruh pengguna.
+
+📆 Jadwal Pelajaran & Kalender Akademik
+Siswa dan guru melihat jadwal pelajaran secara real-time. Admin dapat memperbarui kalender kegiatan.
+
+📊 Nilai & Rapor Online
+Guru dapat menginput nilai siswa. Siswa dan orang tua dapat melihat hasil dan grafik perkembangan belajar.
+
+📌 Kehadiran & Catatan Presensi
+Presensi dicatat oleh guru dan dapat dimonitor oleh siswa dan orang tua.
+
+👨‍👩‍👧 Akses Orang Tua
+Orang tua dapat memantau informasi akademik anak seperti kehadiran, nilai, dan pengumuman.
+
+🗂️ Manajemen Data Akademik
+Admin dapat mengelola data siswa, guru, mata pelajaran, kelas, dan tahun ajaran.
+
+🚀 Tech Stack
+Frontend: React.js + Tailwind CSS
+
+Backend: Next.js + tRPC
+
+Database: PostgreSQL
+
+Autentikasi: Auth.js
+
+🧭 Alur Kerja Aplikasi
+🔐 Login & Setup Awal
+Admin membuat akun guru, siswa, dan orang tua. Pengguna melakukan login sesuai peran.
+
+📚 Interaksi Akademik
+
+Guru menginput nilai dan presensi
+
+Siswa mengakses jadwal dan nilai
+
+Orang tua memantau data anak
+
+📢 Informasi Sekolah
+Semua pengguna menerima pengumuman terbaru dari admin.
+
+🛠️ Manajemen Data
+Admin mengelola semua data akademik dan administrasi sekolah.
+
+👥 Anggota Tim
+Nama	NIM	Peran
+MUHAMMAD YOGA AKBAR HABIBIE	23106050034	Project Manager
+DWI ESTRIANA	23106050046	UI/UX Designer
+AHMAD ZIDNI HIDAYAT	23106050077	Frontend Developer
+SYAFIQ RUSTIAWANTO	23106050094	Backend Developer
+📋 Instalasi & Pengaturan
+Prasyarat:
+Node.js versi terbaru
+
+PostgreSQL
+
+Konfigurasi Auth.js
+
+Langkah Pengembangan Lokal:
+Coming Soon
+
+📱 Tangkapan Layar
+Coming Soon (login, dashboard siswa, nilai, kehadiran, profil)
+
+🎯 Peta Jalan (Roadmap)
+Autentikasi multi-peran
+
+Halaman dashboard per pengguna
+
+Fitur input & tampilan nilai
+
+Jadwal pelajaran & kalender
+
+Sistem pengumuman
+
+Integrasi akses orang tua
+
+Statistik & grafik nilai
+
+Presensi & laporan kehadiran
+
+Export PDF rapor
+
+Responsif (desktop & mobile)
+
+Mode gelap (opsional)
+
+Aplikasi Sistem Informasi Sekolah – Solusi digital untuk pendidikan yang lebih modern, efisien, dan terintegrasi.
 # 👨‍💻 Tim Developer
 | NAMA               | NIM           | PERAN           |
 |--------------------|---------------|------------------|
