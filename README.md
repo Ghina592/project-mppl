@@ -70,8 +70,12 @@ Konfigurasi Auth.js
 Langkah Pengembangan Lokal:
 Coming Soon
 
+---
+
 # 📱 Tangkapan Layar
 _Stay Tuned_ (login, dashboard siswa, nilai, kehadiran, profil)
+
+---
 
 # 🎯 Peta Jalan (Roadmap)
 Autentikasi multi-peran
