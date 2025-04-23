@@ -7,7 +7,7 @@ Aplikasi modern berbasis web yang dirancang untuk memudahkan pihak sekolah dalam
 # 👨‍💻 Tim Developer
 | NAMA               | NIM           | PERAN           |
 |--------------------|---------------|------------------|
-| Ghina Dersa        | 23106050004   | Owner           |
+| Ghina Dersa        | 23106050004   | Chief           |
 | Anugrah Jihad      | 23106050051   | UI/UX Desainer  |
 | Aqib Khoiruzaman   | 23106050069   | Front-End       |
 | Rafi Fabio         | 23106050080   | Back-End        |
