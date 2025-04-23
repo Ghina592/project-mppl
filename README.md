@@ -4,7 +4,7 @@ Aplikasi modern berbasis web yang dirancang untuk memudahkan pihak sekolah dalam
 
 ---
 
-✨ Fitur
+# ✨ Fitur
 
 🔐 Autentikasi Multi-Peran
 Login terpisah untuk siswa, guru, orang tua, dan admin sesuai dengan hak akses.
@@ -28,7 +28,8 @@ Orang tua dapat memantau informasi akademik anak seperti kehadiran, nilai, dan p
 Admin dapat mengelola data siswa, guru, mata pelajaran, kelas, dan tahun ajaran.
 
 ---
-🧭 Alur Kerja Aplikasi
+
+# 🧭 Alur Kerja Aplikasi
 🔐 Login & Setup Awal
 Admin membuat akun guru, siswa, dan orang tua. Pengguna melakukan login sesuai peran.
 
@@ -46,6 +47,8 @@ Semua pengguna menerima pengumuman terbaru dari admin.
 🛠️ Manajemen Data
 Admin mengelola semua data akademik dan administrasi sekolah.
 
+---
+
 # 👨‍💻 Tim Developer
 | NAMA               | NIM           | PERAN           |
 |--------------------|---------------|------------------|
@@ -54,7 +57,9 @@ Admin mengelola semua data akademik dan administrasi sekolah.
 | Aqib Khoiruzaman   | 23106050069   | Front-End       |
 | Rafi Fabio         | 23106050080   | Back-End        |
 
-📋 Instalasi & Pengaturan
+---
+
+# 📋 Instalasi & Pengaturan
 Prasyarat:
 Node.js versi terbaru
 
@@ -65,10 +70,10 @@ Konfigurasi Auth.js
 Langkah Pengembangan Lokal:
 Coming Soon
 
-📱 Tangkapan Layar
-Coming Soon (login, dashboard siswa, nilai, kehadiran, profil)
+# 📱 Tangkapan Layar
+_Stay Tuned_ (login, dashboard siswa, nilai, kehadiran, profil)
 
-🎯 Peta Jalan (Roadmap)
+# 🎯 Peta Jalan (Roadmap)
 Autentikasi multi-peran
 
 Halaman dashboard per pengguna
@@ -91,16 +96,6 @@ Responsif (desktop & mobile)
 
 Mode gelap (opsional)
 
-Aplikasi Sistem Informasi Sekolah – Solusi digital untuk pendidikan yang lebih modern, efisien, dan terintegrasi.
-# 👨‍💻 Tim Developer
-| NAMA               | NIM           | PERAN           |
-|--------------------|---------------|------------------|
-| Ghina Dersa        | 23106050004   | Chief           |
-| Anugrah Jihad      | 23106050051   | UI/UX Desainer  |
-| Aqib Khoiruzaman   | 23106050069   | Front-End       |
-| Rafi Fabio         | 23106050080   | Back-End        |
-
 ---
 
-# 📲 Screen Shoot
-_Stay Tuned_
+### Aplikasi Sistem Informasi Sekolah – Solusi digital untuk pendidikan yang lebih modern, efisien, dan terintegrasi.
