@@ -11,3 +11,8 @@ Aplikasi modern berbasis web yang dirancang untuk memudahkan pihak sekolah dalam
 | Anugrah Jihad      | 23106050051   | UI/UX Desainer  |
 | Aqib Khoiruzaman   | 23106050069   | Front-End       |
 | Rafi Fabio         | 23106050080   | Back-End        |
+
+---
+
+# 📲 Screen Shoot
+_Stay Tuned_
