@@ -9,31 +9,17 @@ Aplikasi modern berbasis web yang dirancang untuk memudahkan pihak sekolah dalam
 Login terpisah untuk siswa, guru, orang tua, dan admin sesuai dengan hak akses.
 📢 Pengumuman Sekolah
 Admin dapat membuat dan menyebarkan pengumuman penting ke seluruh pengguna.
-
 📆 Jadwal Pelajaran & Kalender Akademik
 Siswa dan guru melihat jadwal pelajaran secara real-time. Admin dapat memperbarui kalender kegiatan.
-
 📊 Nilai & Rapor Online
 Guru dapat menginput nilai siswa. Siswa dan orang tua dapat melihat hasil dan grafik perkembangan belajar.
-
 📌 Kehadiran & Catatan Presensi
 Presensi dicatat oleh guru dan dapat dimonitor oleh siswa dan orang tua.
-
 👨‍👩‍👧 Akses Orang Tua
 Orang tua dapat memantau informasi akademik anak seperti kehadiran, nilai, dan pengumuman.
-
 🗂️ Manajemen Data Akademik
 Admin dapat mengelola data siswa, guru, mata pelajaran, kelas, dan tahun ajaran.
-
-🚀 Tech Stack
-Frontend: React.js + Tailwind CSS
-
-Backend: Next.js + tRPC
-
-Database: PostgreSQL
-
-Autentikasi: Auth.js
-
+---
 🧭 Alur Kerja Aplikasi
 🔐 Login & Setup Awal
 Admin membuat akun guru, siswa, dan orang tua. Pengguna melakukan login sesuai peran.
@@ -52,12 +38,14 @@ Semua pengguna menerima pengumuman terbaru dari admin.
 🛠️ Manajemen Data
 Admin mengelola semua data akademik dan administrasi sekolah.
 
-👥 Anggota Tim
-Nama	NIM	Peran
-MUHAMMAD YOGA AKBAR HABIBIE	23106050034	Project Manager
-DWI ESTRIANA	23106050046	UI/UX Designer
-AHMAD ZIDNI HIDAYAT	23106050077	Frontend Developer
-SYAFIQ RUSTIAWANTO	23106050094	Backend Developer
+# 👨‍💻 Tim Developer
+| NAMA               | NIM           | PERAN           |
+|--------------------|---------------|------------------|
+| Ghina Dersa        | 23106050004   | Chief           |
+| Anugrah Jihad      | 23106050051   | UI/UX Desainer  |
+| Aqib Khoiruzaman   | 23106050069   | Front-End       |
+| Rafi Fabio         | 23106050080   | Back-End        |
+
 📋 Instalasi & Pengaturan
 Prasyarat:
 Node.js versi terbaru
