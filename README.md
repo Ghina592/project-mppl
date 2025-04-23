@@ -5,20 +5,28 @@ Aplikasi modern berbasis web yang dirancang untuk memudahkan pihak sekolah dalam
 ---
 
 ✨ Fitur
+
 🔐 Autentikasi Multi-Peran
 Login terpisah untuk siswa, guru, orang tua, dan admin sesuai dengan hak akses.
+
 📢 Pengumuman Sekolah
 Admin dapat membuat dan menyebarkan pengumuman penting ke seluruh pengguna.
+
 📆 Jadwal Pelajaran & Kalender Akademik
 Siswa dan guru melihat jadwal pelajaran secara real-time. Admin dapat memperbarui kalender kegiatan.
+
 📊 Nilai & Rapor Online
 Guru dapat menginput nilai siswa. Siswa dan orang tua dapat melihat hasil dan grafik perkembangan belajar.
+
 📌 Kehadiran & Catatan Presensi
 Presensi dicatat oleh guru dan dapat dimonitor oleh siswa dan orang tua.
+
 👨‍👩‍👧 Akses Orang Tua
 Orang tua dapat memantau informasi akademik anak seperti kehadiran, nilai, dan pengumuman.
+
 🗂️ Manajemen Data Akademik
 Admin dapat mengelola data siswa, guru, mata pelajaran, kelas, dan tahun ajaran.
+
 ---
 🧭 Alur Kerja Aplikasi
 🔐 Login & Setup Awal
