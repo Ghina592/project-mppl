@@ -59,7 +59,7 @@ Admin mengelola semua data akademik dan administrasi sekolah.
 
 ---
 
-# 📋 Instalasi & Pengaturan
+# ⚙️ Instalasi & Pengaturan
 Prasyarat:
 Node.js versi terbaru
 
@@ -73,32 +73,32 @@ Coming Soon
 ---
 
 # 📱 Tangkapan Layar
-_Stay Tuned_ (login, dashboard siswa, nilai, kehadiran, profil)
+_Stay Tuned_
 
 ---
 
-# 🎯 Peta Jalan (Roadmap)
-Autentikasi multi-peran
+# 🗺️ Peta Jalan (Roadmap)
+• Autentikasi multi-peran
 
-Halaman dashboard per pengguna
+• Halaman dashboard per pengguna
 
-Fitur input & tampilan nilai
+• Fitur input & tampilan nilai
 
-Jadwal pelajaran & kalender
+• Jadwal pelajaran & kalender
 
-Sistem pengumuman
+• Sistem pengumuman
 
-Integrasi akses orang tua
+• Integrasi akses orang tua
 
-Statistik & grafik nilai
+• Statistik & grafik nilai
 
-Presensi & laporan kehadiran
+• Presensi & laporan kehadiran
 
-Export PDF rapor
+• Export PDF rapor
 
-Responsif (desktop & mobile)
+• Responsif (desktop & mobile)
 
-Mode gelap (opsional)
+• Mode gelap (opsional)
 
 ---
 
