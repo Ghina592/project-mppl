@@ -60,9 +60,10 @@
 
 **Prasyarat:**
 
-- Node.js versi terbaru
-- PostgreSQL
-- Konfigurasi Auth.js
+- PHP >= 8.x
+- Composer
+- MySQL (phpMyAdmin)
+- Laravel (versi terbaru)
 
 **Langkah Pengembangan Lokal:**  
 _Coming Soon_
